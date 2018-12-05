@@ -5,7 +5,7 @@ https://console.aws.amazon.com/console/home
 ![join AWS](./img/join.png)  
 
 ## 2. EC2 인스턴스를 생성한다.  
-###생성단계 
+### 생성단계 
 * 단계 1: AMI(Amazon Machine Image) 선택  
 프리티어 Ubuntu Server 
 ![join AWS](./img/process1.png)  
